@@ -1,8 +1,8 @@
 package br.com.chronos.profissionais.servico;
 
-import br.com.chronos.profissionais.controle.dto.ProfissionalRequisicao;
-import br.com.chronos.profissionais.controle.dto.ProfissionalResposta;
-import br.com.chronos.profissionais.controle.dto.ProjetoVinculadoResposta;
+import br.com.chronos.profissionais.api.dto.ProfissionalRequisicao;
+import br.com.chronos.profissionais.api.dto.ProfissionalResposta;
+import br.com.chronos.profissionais.api.dto.ProjetoVinculadoResposta;
 import br.com.chronos.profissionais.dominio.Profissional;
 import br.com.chronos.profissionais.dominio.ProfissionalProjeto;
 import br.com.chronos.profissionais.dominio.ProfissionalProjetoId;

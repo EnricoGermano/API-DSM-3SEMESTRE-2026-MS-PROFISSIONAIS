@@ -1,4 +1,4 @@
-package br.com.chronos.profissionais.controle.dto;
+package br.com.chronos.profissionais.api.dto;
 
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotNull;

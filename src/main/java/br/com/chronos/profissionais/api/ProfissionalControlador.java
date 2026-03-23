@@ -1,9 +1,9 @@
-package br.com.chronos.profissionais.controle;
+package br.com.chronos.profissionais.api;
 
-import br.com.chronos.profissionais.controle.dto.ProfissionalRequisicao;
-import br.com.chronos.profissionais.controle.dto.ProfissionalResposta;
-import br.com.chronos.profissionais.controle.dto.ProjetoVinculadoResposta;
-import br.com.chronos.profissionais.controle.dto.VinculoProjetoRequisicao;
+import br.com.chronos.profissionais.api.dto.ProfissionalRequisicao;
+import br.com.chronos.profissionais.api.dto.ProfissionalResposta;
+import br.com.chronos.profissionais.api.dto.ProjetoVinculadoResposta;
+import br.com.chronos.profissionais.api.dto.VinculoProjetoRequisicao;
 import br.com.chronos.profissionais.servico.ProfissionalServico;
 import jakarta.persistence.EntityNotFoundException;
 import jakarta.validation.Valid;
